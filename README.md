@@ -1,9 +1,8 @@
 JBURLEYS POKERBOT
-------------------
-Here we have a poker bot fully written in Java. At the bots current state this it works as a great tool to discard rubbish hands, provide equity calculations, generate pot odds, and it’s useful for finding a good table position on your opponents. 
-However what I wanted was full automation, and for this I needed AI. So I’ve decided to release the source code to those who might improve on what I’ve done so far.
-------------------
+-----------------
+Here we have a poker bot fully written in Java. At the bots current state this it works as a great tool to discard rubbish hands, provide equity calculations, generate pot odds, and it’s useful for finding a good table position on your opponents. However what I wanted was full automation, and for this I needed AI. So I’ve decided to release the source code to those who might improve on what I’ve done so far.
 
+------------------
 How does it work?
 
 Basically it uses template matching to determine the pot size, the opponent bet, how many opponents are on the table, the cards you are holding, and what community cards are on offer.
