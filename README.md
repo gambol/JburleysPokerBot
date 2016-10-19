@@ -29,7 +29,7 @@ It’s my term for the hole card code, i.e “KhQd”.
 
 - Raise hell? What?
 
- “Raising hell” is a scripting shortcut designed to steamroll an opponents all in bet.
+“Raising hell” is a scripting shortcut designed to steamroll an opponents all in bet.
  
 - Fast fold ()?
 
