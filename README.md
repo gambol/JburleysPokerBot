@@ -14,7 +14,6 @@ Set up
 ------------------
 You can use this bot on any piece of poker software, you just have to set it up. It can be quite daunting at first, but once you get the idea it’s pretty easy, and you can even improve on how it works from there. I have included as many comments as I can to help you get started. To begin, start off with the ThreadController.Java class. It’s where it all starts.
 
--MVC-
 It’s not at all fair to say my bot uses MVC, but it I tried to get a class to generate a value, send it to the switchboard class, which is then makes it accessible to other classes via getter/setters. So if you want to find a value, check the switchboard. If you want to use it though, you will need to “generate” it first.
 
 ------------------
