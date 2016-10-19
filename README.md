@@ -47,16 +47,14 @@ Time-To-Act. It’s the moment the program needs to calculate and make the split
 History
 ------------------
 It started off as a personal project of mine. It used the optical character recognition libraries (tesseract) but was unstable, so I moved over to template matching.
-Pros vs Cons
+
+------------------
+Issues
+------------------
+- Sometimes the Monte Carlo simulation doesn’t work with pocket queens.
 -	Needs OOP
 -	Needs AI
 -	Lacks multi-table functionality.
-
-------------------
-Known bugs
-------------------
-Sometimes the Monte Carlo simulation doesn’t work with pocket queens.
-
 ------------------
 Testing
 ------------------
