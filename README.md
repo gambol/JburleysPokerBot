@@ -51,10 +51,10 @@ It started off as a personal project of mine. It used the optical character reco
 ------------------
 Issues
 ------------------
--Sometimes the Monte Carlo simulation doesn’t work with pocket queens.
--Needs OOP
--Needs AI
--Lacks multi-table functionality.
+Sometimes the Monte Carlo simulation doesn’t work with pocket queens.
+Needs OOP
+Needs AI
+Lacks multi-table functionality.
 ------------------
 Testing
 ------------------
