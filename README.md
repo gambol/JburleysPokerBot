@@ -79,7 +79,6 @@ Although I moved away from OCR in my project
 
 - Anyline.io: 
 I did a lot of work with Tesseract. This includes training font, which can take a lot of time and a bunch of 3rd party programs. Luckily, there is a website that can do this for you for free in minutes. It saved me a lot of time.
-Link:
  https://www.anyline.io/blog/2016/08/16/train-your-tesseract/
  
  
