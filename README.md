@@ -65,19 +65,19 @@ The testing is a bit messy but you can read the code to get a better understandi
 Recommendations:
 ------------------
 
-- IntelliJ. 
+- IntelliJ: 
 It’s a great IDE and I would like to recommend it. It’s free for open source material.  
 https://www.jetbrains.com/idea/download/
 
-- JavaCV. 
+- JavaCV:
 This is what I use for the template matching.
  https://github.com/bytedeco/javacv
 
-- Tesseract-Ocr
+- Tesseract-Ocr: 
 Although I moved away from OCR in my project
  https://github.com/tesseract-ocr
 
-- Anyline.io / Tesseract Training
+- Anyline.io: 
 I did a lot of work with Tesseract. This includes training font, which can take a lot of time and a bunch of 3rd party programs. Luckily, there is a website that can do this for you for free in minutes. It saved me a lot of time.
 Link:
  https://www.anyline.io/blog/2016/08/16/train-your-tesseract/
