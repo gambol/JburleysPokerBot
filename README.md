@@ -65,7 +65,9 @@ The testing is a bit messy but you can read the code to get a better understandi
 Recommendations:
 ------------------
 
-IntelliJ. It’s a great IDE and I would like to recommend it. It’s free for open source material.  https://www.jetbrains.com/idea/download/
+- IntelliJ. 
+It’s a great IDE and I would like to recommend it. It’s free for open source material.  
+https://www.jetbrains.com/idea/download/
 
 - JavaCV. 
 This is what I use for the template matching.
