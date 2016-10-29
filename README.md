@@ -55,6 +55,7 @@ Issues
 - Needs AI
 - Lacks multi-table functionality.
 - Sometimes the Monte Carlo simulation doesn’t work with pocket queens.
+- You will need to provide the full file path to the main.jpg file in the code.
 
 ------------------
 Testing
