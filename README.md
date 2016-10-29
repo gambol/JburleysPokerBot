@@ -51,9 +51,6 @@ It started off as a personal project of mine. It used the optical character reco
 ------------------
 Issues
 ------------------
-- Needs OOP
-- Needs AI
-- Lacks multi-table functionality.
 - Sometimes the Monte Carlo simulation doesn’t work with pocket queens.
 - You will need to provide the full file path to the main.jpg file in the code.
 
@@ -61,6 +58,7 @@ Issues
 Testing
 ------------------
 The testing is a bit messy but you can read the code to get a better understanding of what things are supposed to do.
+- I would like to add more OOD, AI, and multi-table functionality.
 
 ------------------
 Recommendations:
