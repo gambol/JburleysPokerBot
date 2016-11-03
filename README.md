@@ -57,7 +57,7 @@ Issues
 ------------------
 Testing
 ------------------
-The testing is a bit messy but you can read the code to get a better understanding of what things are supposed to do.
+The testing directory also contains tests and tools that provide a better understanding of what things are supposed to do.
 - I would like to add more OOD, AI, and multi-table functionality.
 
 ------------------
