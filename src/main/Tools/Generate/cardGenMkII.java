@@ -72,7 +72,7 @@ public class cardGenMkII
         try
         {
             //load our template grid:
-            grid = ImageIO.read(new File("Tess3\\Visuals\\research\\CoreVisuals\\ReferenceGrid.png"));
+            grid = ImageIO.read(new File("Visuals/research/CoreVisuals/ReferenceGrid.png"));
         } catch (IOException e)
         {
             e.printStackTrace();

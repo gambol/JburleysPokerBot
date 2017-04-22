@@ -30,7 +30,7 @@ public class sysUpdate
         String fileName = new SimpleDateFormat("yyyyMMddhhmm'.txt'").format(new Date());
         try
         {
-            ImageIO.write(image, "PNG", new File("Tess3\\Visuals\\TestShots\\" + fileName + ".png"));
+            ImageIO.write(image, "PNG", new File("Tess3/Visuals/TestShots/" + fileName + ".png"));
         } catch (IOException e)
         {
             e.printStackTrace();

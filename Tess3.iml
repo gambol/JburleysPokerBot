@@ -20,6 +20,7 @@
         <jarDirectory url="file://$MODULE_DIR$/jars" recursive="false" />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="app" level="application" />
+    <orderEntry type="library" name="jars" level="project" />
+    <orderEntry type="library" name="app" level="project" />
   </component>
 </module>
